@@ -1,2 +1,2 @@
-my second readme
-tis is our edit 
+this is 0x01-git dir 
+this is our edit 
